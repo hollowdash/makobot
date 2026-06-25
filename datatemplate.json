@@ -1,9 +1,9 @@
 {
     "IDS": {
-        "makoAuditLogChannelID": 1519580935681605803,
-        "ticketCategoryID": 1519558516266897479
+        "makoAuditLogChannelID": 0,
+        "ticketCategoryID": 0
     },
     "values": {
-        "ticket_count": 19
+        "ticket_count": 0
     }
 }
